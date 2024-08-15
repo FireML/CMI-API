@@ -13,11 +13,11 @@
 
 	<distributionManagement>
 		<snapshotRepository>
-			<id>firedev.nexus</id>
+			<id>firedev.repo</id>
 			<url>https://repo.firedev.uk/repository/maven-snapshots/</url>
 		</snapshotRepository>
 		<repository>
-			<id>firedev.nexus</id>
+			<id>firedev.repo</id>
 			<url>https://repo.firedev.uk/repository/maven-releases/</url>
 		</repository>
 	</distributionManagement>
